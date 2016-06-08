@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConsoleApplication4">
+</Property><Property Name="Solution File" Value="C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.suo">
+</Property><Property Name="Date" Value="28 Mayıs 2016 Cumartesi">
+</Property><Property Name="Time" Value="05:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConsoleApplication4.sln" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication4.suo" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4.suo">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\ConsoleApplication4.csproj" Description="Project file successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\ConsoleApplication4.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\Ag.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\Ag.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\AgAlgoritmalari.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\AgAlgoritmalari.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\Komsu.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\Komsu.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\Nokta.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\Nokta.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\Program.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mrt_b\Desktop\Blog\4 Projeler\ConsoleApplication4\ConsoleApplication4\Backup\ConsoleApplication4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\ConsoleApplication4.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication4" Source="ConsoleApplication4\ConsoleApplication4.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleApplication4.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ConsoleApplication4.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication4" Source="ConsoleApplication4\ConsoleApplication4.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
